@@ -1,0 +1,188 @@
+body {
+    background-image: url(images/orig.jpg);
+  }
+  
+  #janna {
+      transform: scale(0.5);
+      transition: 1s all;  
+      background-image: url(images/kak-uxazhivat-za-obuvyu-iz-nubuka11.jpg);
+      text-align:Right;
+      color: #6e0202;
+      margin-left:auto;
+      border: 5px solid orange;
+      border-radius: 15px;
+      box-shadow: 10px 10px 10px #000000;
+      height: 385px;
+      width: 490px;
+      font-size: 40px;
+      font-weight: 50px;
+      Position:absolute;
+      right: 860px;
+      bottom: 6px;
+      opacity: 0.5;
+  }
+  
+  #janna:hover {
+      transform: scale(0.6);
+      opacity: 1;
+      box-shadow: 100px 10px 10px #9c1818;  
+  }
+   
+  #text {
+      transition: 0.5s all;
+      color: #bccf0b;
+      border: 3px solid orange;
+      border-radius: 15px;
+      font-size: 30px;
+      font-weight: 40px;
+      width: 30%;
+      background-color: darkslategray;
+      margin-left: 5%;
+      opacity: 0.5;
+      margin:auto;
+      position:absolute;
+      left: 550px;
+      bottom:335px;
+  }   
+  #text:hover {
+      color: rgb(247, 90, 0);
+      opacity: 1;
+  }
+  #janna2 {
+      transform: scale(0.39);
+      transition: 1s all;
+      color: rgba(13, 168, 161, 0.74);
+      border: 3px solid orange;
+      border-radius: 15px;
+      background-image: url(images/148e1078a238377cb826a30ef9e88e4d.jpg);
+      text-align:Right;
+      margin:auto;
+      width: 700px;
+      height: 550px;
+      box-shadow: 10px 10px 10px #000000;
+      position:absolute;
+      left: -203px;
+      top: -33px;
+      opacity: 0.5;
+      font-size: 60px;
+      font-weight: 50px;
+  }
+  #janna2:hover {
+      opacity: 1;
+       transform: scale(0.45);
+  }
+  
+  #text2 {
+      transition: 0.5s all;
+      color: #bccf0b;
+      border: 3px solid orange;
+      border-radius: 15px;
+      font-size: 40px;
+      font-weight: 50px;
+      width: 30%;
+      background-color: darkslategray;
+      margin-left: 5%;
+      opacity: 0.5;
+      margin:auto;
+      position:absolute;
+      left: 550px;
+      bottom:3px;
+  }   
+  #text2:hover {
+      color: rgb(247, 90, 0);
+      opacity: 1;
+  }
+  
+  #text3 {
+      transition: 0.5s all;
+      color: #bccf0b;
+      border: 3px solid orange;
+      border-radius: 15px;
+      font-size: 40px;
+      font-weight: 50px;
+      width: 30%;
+      background-color: darkslategray;
+      margin-left: 5%;
+      opacity: 0.5;
+      margin:auto;
+      position:absolute;
+      left: 550px;
+      
+  }   
+  #text3:hover {
+      color: rgb(247, 90, 0);
+      opacity: 1;
+  }
+  
+  #child {
+      transform: scale(0.39);
+      transition: 1s all;
+      color: rgba(13, 168, 161, 0.74);
+      border: 3px solid orange;
+      border-radius: 15px;
+      background-image: url(images/photoeditorsdk-export.png);
+      text-align:Right;
+      margin:auto;
+      width: 660px;
+      height: 490px;
+      box-shadow: 10px 10px 10px #000000;
+      position:absolute;
+      left: 450px;
+      opacity: 0.5;
+      font-size: 60px;
+      font-weight: 50px;
+  }
+  #child:hover {
+      opacity: 1;
+       transform: scale(0.467);
+  }
+  
+  #woman {
+      transform: scale(0.39);
+      transition: 1s all;
+      color: #7877d3f6;
+      border: 3px solid orange;
+      border-radius: 15px;
+      background-image: url(images/woman.png);
+      text-align:Right;
+      margin:auto;
+      width: 500px;
+      height: 530px;
+      box-shadow: 10px 10px 10px #000000;
+      position:absolute;
+      left: 830px;
+      bottom: -60px;
+      opacity: 0.5;
+      font-size: 60px;
+      font-weight: 50px;
+  }
+  #woman:hover {
+      opacity: 1;
+       transform: scale(0.5);
+  }
+  
+  #janna3 {
+      transform: scale(0.3);
+      transition: 1s all;  
+      background-image: url(images/galosh.png);
+      text-align:Right;
+      color: #6e0202;
+      margin-left:auto;
+      border: 5px solid orange;
+      border-radius: 15px;
+      box-shadow: 10px 10px 10px #000000;
+      height: 795px;
+      width: 490px;
+      font-size: 50px;
+      font-weight: 50px;
+      Position:absolute;
+      right: 10px;
+      top: -168px;
+      opacity: 0.5;
+  }
+  
+  #janna3:hover {
+      transform: scale(0.42);
+      opacity: 1;
+      
+  }
